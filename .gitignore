@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Licence files: never commit a real licence
+*.lic
+
+# Signed output of local runs
+Result/
